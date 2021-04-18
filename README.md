@@ -1,2 +1,2 @@
-# registration-form
+# Registration-form
 Responsive Registration Form
